@@ -169,7 +169,6 @@ export default function App() {
       />
     );
   }
-
   return (
     <DashboardShell
       activeModule={activeModule}
