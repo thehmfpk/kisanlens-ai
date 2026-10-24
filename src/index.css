@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-display: 'Plus Jakarta Sans', 'Noto Sans Arabic', sans-serif;
+    --font-sans: 'Public Sans', 'Noto Sans Arabic', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #FAF9F5;
+    color: #18181B;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .dark body {
+    background-color: #0B120E;
+    color: #F4F4F0;
+    letter-spacing: 0.005em;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+
+  [dir="rtl"] {
+    font-family: 'Noto Sans Arabic', 'Public Sans', sans-serif;
+    line-height: 1.75;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

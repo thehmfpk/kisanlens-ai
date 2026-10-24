@@ -1,0 +1,6 @@
+{
+  "name": "KisanLens AI",
+  "description": "AI-powered crop insights, irrigation guidance, soil understanding, weather awareness, voice assistance, and market intelligence for Pakistani farmers.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
