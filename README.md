@@ -521,7 +521,6 @@ If the repository is intended to use this license, include the full Apache-2.0 l
     </td>
   </tr>
 </table>
-
 <p align="center">
   <strong>TEAM ALPHA BRAVE</strong>
   <br/>
