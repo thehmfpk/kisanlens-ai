@@ -506,8 +506,8 @@ If the repository is intended to use this license, include the full Apache-2.0 l
       <br/>
       <sub>Team Member</sub>
       <br/><br/>
-      <a href="https://www.linkedin.com/in/hafizmfaizan">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hafiz Muhammad Faizan on LinkedIn" />
+        <a href="https://github.com/thehmfpk">
+        <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hafiz Muhammad Faizan on GitHub" />
       </a>
     </td>
     <td align="center" width="50%">
